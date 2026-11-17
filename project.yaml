@@ -23,7 +23,7 @@ repositories:
 
 website: "https://ratify.dev/"
 
-artwork: "https://landscape.cncf.io/logos/ratify.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/ratify"
 
 adopters:
   path: "https://github.com/ratify-project/ratify/blob/main/ADOPTERS.md"
